@@ -1,4 +1,1 @@
-#testing this feature.
-
-**what** happens when I add _a read me_ file.
-`code snippet`
+portfolio being developed via **Career Foundry**
