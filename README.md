@@ -1,3 +1,4 @@
-#testing this feature. 
+#testing this feature.
 
-**what** happens when I add _a read me_ file. 
+**what** happens when I add _a read me_ file.
+`code snippet`
