@@ -294,6 +294,14 @@ table {
   span.project-number {
     font-size: 18px;
   }
+  @keyframes tree-slide {
+    0% {
+      transform: translate(0, 0);
+    }
+    100% {
+      transform: translate(50px, 0);
+    }
+  }
 }
 
 @media all and (min-width: 500px) and (max-width: 800px) {
