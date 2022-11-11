@@ -74,7 +74,7 @@ section {
 }
 
 section {
-  padding-bottom: 50px;
+  padding-bottom: 25px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -109,6 +109,7 @@ section {
 .profile {
   height: 100%;
   width: 50%;
+  padding-top: 15px;
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -298,6 +299,11 @@ table {
   }
   span.project-number {
     font-size: 18px;
+  }
+
+  #profile-pic {
+    height: 150px;
+    width: 150px;
   }
   @keyframes tree-slide {
     0% {
