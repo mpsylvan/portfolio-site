@@ -1,0 +1,8 @@
+1) increased margin to 10px L/R for div.about-section in "about.html".
+	
+	this fixed: .about-section paragraphs were right up against screen edge on android testing. 
+
+2) Increased padding on .profile div in "index.html" and reduced dimensions of .profile pic in mobile 
+   screens less than 500px width via media query.   
+	
+	this fixed: #profile-picture would become partly obscured by fixed <header>. Image included. 
