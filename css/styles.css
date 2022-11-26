@@ -150,6 +150,10 @@ section {
   box-shadow: var(--box-shadow);
   transition: 0.4s background-color, 0.4s box-shadow;
 }
+.link-container {
+  display: flex;
+  flex-direction: column;
+}
 
 .grid_item:last-child {
   grid-column: 1/4;
